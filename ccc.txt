@@ -1,5 +1,13 @@
 ccc
+<<<<<<< HEAD
 sdf
 sdf
 sdf
 sdf
+=======
+Linia 2
+Linia 3
+Linia 4
+Linia 5
+Linia 6
+>>>>>>> 6d3040ce8154ff0dfe28519e9c87e34b8043fdc4
